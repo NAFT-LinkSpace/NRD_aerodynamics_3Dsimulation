@@ -10,4 +10,4 @@ Python
 2023.01.08.　python3.10の動作が複数環境で未確認  
 
 ## 内部の計算式について
-[こちら](https://github.com/NAFT-LinkSpace/NRD_2022_aerodynamics_3Dsimulation/blob/AboutCalculation.md)を参照してください．  
+[こちら](https://github.com/NAFT-LinkSpace/NRD_aerodynamics_3Dsimulation/AboutCalculation.md)を参照してください．  
