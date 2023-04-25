@@ -17,4 +17,4 @@ README.mdと同じ階層に以下のフォルダを作成．
 また，thrust内に推力履歴を追加すること．  
   
 ## 内部の計算式について
-[こちら](https://github.com/NAFT-LinkSpace/NRD_aerodynamics_3Dsimulation/Codes/AboutCalculation.md)を参照してください．  
+[こちら](https://github.com/NAFT-LinkSpace/NRD_aerodynamics_3Dsimulation/blob/main/Codes/AboutCalculation.md)を参照してください．  
