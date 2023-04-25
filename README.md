@@ -14,6 +14,7 @@ Python
 README.mdと同じ階層に以下のフォルダを作成．  
 - thrust
 - result
+  
 また，thrust内に推力履歴を追加すること．  
   
 ## 内部の計算式について
