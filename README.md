@@ -19,3 +19,6 @@ README.mdと同じ階層に以下のフォルダを作成．
   
 ## 内部の計算式について
 [こちら](https://github.com/NAFT-LinkSpace/NRD_aerodynamics_3Dsimulation/blob/main/Codes/AboutCalculation.md)を参照してください．  
+
+## チュートリアル
+[こちら](https://github.com/mame7777/3DSimulataion-Tutorial)を参照してください．
