@@ -11,7 +11,7 @@ Python
 2023.01.08.　python3.10の動作が複数環境で未確認  
 
 ## 使用方法  
-README.mdと同じ階層に以下のフォルダを作成．  
+main.pyと同じ階層に以下のフォルダを作成．  
 - thrust
 - result
   
