@@ -274,7 +274,7 @@ def calc_eachcase():
 
         while (azm_roop < AZIMUTH_NUM):
 
-            with open('./result2_check/' + TIME_NOW + '/history_' + str(int(wind_angle)) + 'deg_wind' + str(wind_roop) + '.csv', 'w') as file:
+            with open('./result2_check/' + TIME_NOW + '/history_' + str(int(wind_angle)) + 'deg_wind' + str(wind_roop) + '.csv', 'w', newline='') as file:
                 global filecsv
                 filecsv = csv.writer(file)
                 # 出力の単位間違えてませんか？
